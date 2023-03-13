@@ -1,0 +1,8 @@
+C:\Users\Klara\source\repos\Sportka\bin\Debug\Sportka.exe.config
+C:\Users\Klara\source\repos\Sportka\bin\Debug\Sportka.exe
+C:\Users\Klara\source\repos\Sportka\bin\Debug\Sportka.pdb
+C:\Users\Klara\source\repos\Sportka\obj\Debug\Sportka.csproj.AssemblyReference.cache
+C:\Users\Klara\source\repos\Sportka\obj\Debug\Sportka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klara\source\repos\Sportka\obj\Debug\Sportka.csproj.CoreCompileInputs.cache
+C:\Users\Klara\source\repos\Sportka\obj\Debug\Sportka.exe
+C:\Users\Klara\source\repos\Sportka\obj\Debug\Sportka.pdb
